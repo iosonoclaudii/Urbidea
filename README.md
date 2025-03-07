@@ -83,15 +83,4 @@ GitHub: @iosonoclaudii
 © 2025 Claudio Maldera.
 Developed with ❤️ and Angular.
 
-yaml
-Copia
-Modifica
 
----
-
-## 📌 Riepilogo di quello che devi fare:
-
-- Aggiungi il componente footer nel progetto Angular.
-- Usa il `README.md` fornito sopra per presentare professionalmente il progetto su GitHub.
-
-Così avrai tutto completo, coerente e presentabile!
