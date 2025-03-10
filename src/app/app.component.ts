@@ -13,4 +13,6 @@ import { FooterComponent } from './components/footer/footer.component';
     <app-footer></app-footer>
   `,
 })
-export class AppComponent {}
+export class AppComponent {
+  title = 'urban-ideas-app';
+}
