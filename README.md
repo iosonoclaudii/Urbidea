@@ -56,7 +56,7 @@ Per garantire la stabilità dell'applicazione, sono stati implementati **test au
 ```bash
 ng test --watch=false --browsers=ChromeHeadless
 ```
-I test verificano la corretta creazione dei componenti, l’interazione con i servizi e la gestione degli input utente. Dopo aver corretto problemi legati ai provider mancanti (`HttpClient`, `ActivatedRoute`), i test sono stati superati con successo, garantendo un'architettura solida e manutenibile.  
+I test verificano la corretta creazione dei componenti, l’interazione con i servizi e la gestione degli input utente. I test sono stati superati con successo, garantendo un'architettura solida e manutenibile.  
 
 ---
 
